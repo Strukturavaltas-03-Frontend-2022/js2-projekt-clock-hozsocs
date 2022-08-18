@@ -1,0 +1,16 @@
+body {
+    margin: 10% 15%;
+    background-color: rgb(33, 30, 30);
+    }
+
+.clock {
+
+padding: 5vw;
+height: 16vw;
+width: 60vw;
+font-size: 12vw;
+text-align: center;
+color: #30a2c2;
+background-color: #000;
+font-family: 'Cyberverse', sans-serif;
+}
